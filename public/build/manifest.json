@@ -1,0 +1,21 @@
+{
+  "public/fonts/NRT-Bd.ttf": {
+    "file": "assets/NRT-Bd-DPI_XDNo.ttf",
+    "src": "public/fonts/NRT-Bd.ttf"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-D1HajPCm.css",
+    "src": "resources/css/app.css",
+    "isEntry": true,
+    "name": "app",
+    "names": [
+      "app.css"
+    ]
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-CAiCLEjY.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  }
+}
